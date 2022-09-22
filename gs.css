@@ -66,4 +66,10 @@ p.directions:hover {
 .KING {
     color:palevioletred
 }
+h6:hover{
+    color: rgb(26, 203, 226);
+    font-size:medium;
+    background-color: rgb(214, 31, 31);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ }
  
